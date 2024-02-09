@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074497721890",
+    "project_id": "shoplk-32a97",
+    "storage_bucket": "shoplk-32a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074497721890:android:5b0b7cbb32700c7ac7dc7b",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQEM6LvZOmiGlj576DN09sZsprSeJaY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074497721890:android:499fc75612c5aa68c7dc7b",
+        "android_client_info": {
+          "package_name": "com.example.shoplk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQEM6LvZOmiGlj576DN09sZsprSeJaY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
